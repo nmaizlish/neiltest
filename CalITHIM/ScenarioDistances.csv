@@ -1,0 +1,271 @@
+"Region","ScenarioName","Centraltend","Time","Mode","Baseline","Scenario","PercentChange"
+"California","CSMP2020","mean","annual","Walk",96.2,192.4,100
+"Sacramento Area","CSMP2020","mean","annual","Walk",84.5,169,100
+"San Diego County","CSMP2020","mean","annual","Walk",76.8,153.6,100
+"San Joaquin Valley","CSMP2020","mean","annual","Walk",72.5,145,100
+"SF Bay Area","CSMP2020","mean","annual","Walk",150.7,301.4,100
+"Southern California","CSMP2020","mean","annual","Walk",84.9,169.8,100
+"California","CSMP2020","mean","annual","Bike",37.5,112.5,200
+"Sacramento Area","CSMP2020","mean","annual","Bike",60.7,182.1,200
+"San Diego County","CSMP2020","mean","annual","Bike",42.1,126.3,200
+"San Joaquin Valley","CSMP2020","mean","annual","Bike",18.4,55.2,200
+"SF Bay Area","CSMP2020","mean","annual","Bike",61.5,184.5,200
+"Southern California","CSMP2020","mean","annual","Bike",29,87,200
+"California","CSMP2020","mean","annual","CarDriver",6880.2,6472.50064139605,-5.93
+"Sacramento Area","CSMP2020","mean","annual","CarDriver",5653.2,5425.06242092371,-4.04
+"San Diego County","CSMP2020","mean","annual","CarDriver",4840.6,4540.21402070205,-6.21
+"San Joaquin Valley","CSMP2020","mean","annual","CarDriver",6207,5869.10771230228,-5.44
+"SF Bay Area","CSMP2020","mean","annual","CarDriver",5683.3,4985.47306391028,-12.28
+"Southern California","CSMP2020","mean","annual","CarDriver",7967.2,7595.50094739528,-4.67
+"California","CSMP2020","mean","annual","CarPassenger",3503.4,3295.79935860395,-5.93
+"Sacramento Area","CSMP2020","mean","annual","CarPassenger",4226.5,4055.93757907629,-4.04
+"San Diego County","CSMP2020","mean","annual","CarPassenger",3062,2871.98597929795,-6.21
+"San Joaquin Valley","CSMP2020","mean","annual","CarPassenger",3257.1,3079.79228769772,-5.44
+"SF Bay Area","CSMP2020","mean","annual","CarPassenger",1824.1,1600.12693608972,-12.28
+"Southern California","CSMP2020","mean","annual","CarPassenger",4181.9,3986.79905260472,-4.67
+"California","CSMP2020","mean","annual","Bus",297.5,595,100
+"Sacramento Area","CSMP2020","mean","annual","Bus",160.3,320.6,100
+"San Diego County","CSMP2020","mean","annual","Bus",234.8,469.6,100
+"San Joaquin Valley","CSMP2020","mean","annual","Bus",397.9,795.8,100
+"SF Bay Area","CSMP2020","mean","annual","Bus",293.6,587.2,100
+"Southern California","CSMP2020","mean","annual","Bus",303.7,607.4,100
+"California","CSMP2020","mean","annual","Rail",146.6,293.2,100
+"Sacramento Area","CSMP2020","mean","annual","Rail",32.5,65,100
+"San Diego County","CSMP2020","mean","annual","Rail",94.6,189.2,100
+"San Joaquin Valley","CSMP2020","mean","annual","Rail",8,16,100
+"SF Bay Area","CSMP2020","mean","annual","Rail",354.5,709,100
+"Southern California","CSMP2020","mean","annual","Rail",120.2,240.4,100
+"California","CSMP2020","mean","annual","Motorcycle",34,34,0
+"Sacramento Area","CSMP2020","mean","annual","Motorcycle",46.7,46.7,0
+"San Diego County","CSMP2020","mean","annual","Motorcycle",49.2,49.2,0
+"San Joaquin Valley","CSMP2020","mean","annual","Motorcycle",22.7,22.7,0
+"SF Bay Area","CSMP2020","mean","annual","Motorcycle",47.9,47.9,0
+"Southern California","CSMP2020","mean","annual","Motorcycle",27,27,0
+"California","CSMP2020","mean","annual","Truck",661.7,661.7,0
+"Sacramento Area","CSMP2020","mean","annual","Truck",622.1,622.1,0
+"San Diego County","CSMP2020","mean","annual","Truck",1272.5,1272.5,0
+"San Joaquin Valley","CSMP2020","mean","annual","Truck",1108.3,1108.3,0
+"SF Bay Area","CSMP2020","mean","annual","Truck",677.2,677.2,0
+"Southern California","CSMP2020","mean","annual","Truck",464.2,464.2,0
+"California","CSMP2020","mean","annual","Total",11657.1,11657.1,0
+"Sacramento Area","CSMP2020","mean","annual","Total",10886.5,10886.5,0
+"San Diego County","CSMP2020","mean","annual","Total",9672.6,9672.6,0
+"San Joaquin Valley","CSMP2020","mean","annual","Total",11091.9,11091.9,0
+"SF Bay Area","CSMP2020","mean","annual","Total",9092.8,9092.8,0
+"Southern California","CSMP2020","mean","annual","Total",13178.1,13178.1,0
+"California","CARB2030","mean","annual","Walk",96.2,384.8,300
+"Sacramento Area","CARB2030","mean","annual","Walk",84.5,338,300
+"San Diego County","CARB2030","mean","annual","Walk",76.8,307.2,300
+"San Joaquin Valley","CARB2030","mean","annual","Walk",72.5,290,300
+"SF Bay Area","CARB2030","mean","annual","Walk",150.7,602.8,300
+"Southern California","CARB2030","mean","annual","Walk",84.9,339.6,300
+"California","CARB2030","mean","annual","Bike",37.5,337.5,800
+"Sacramento Area","CARB2030","mean","annual","Bike",60.7,546.3,800
+"San Diego County","CARB2030","mean","annual","Bike",42.1,378.9,800
+"San Joaquin Valley","CARB2030","mean","annual","Bike",18.4,165.6,800
+"SF Bay Area","CARB2030","mean","annual","Bike",61.5,553.5,800
+"Southern California","CARB2030","mean","annual","Bike",29,261,800
+"California","CARB2030","mean","annual","CarDriver",6880.2,5607.40673176933,-18.5
+"Sacramento Area","CARB2030","mean","annual","CarDriver",5653.2,4899.32174458739,-13.34
+"San Diego County","CARB2030","mean","annual","CarDriver",4840.6,3887.86681851543,-19.68
+"San Joaquin Valley","CARB2030","mean","annual","CarDriver",6207,5169.18797349986,-16.72
+"SF Bay Area","CARB2030","mean","annual","CarDriver",5683.3,3496.70494445481,-38.47
+"Southern California","CARB2030","mean","annual","CarDriver",7967.2,6814.06730045847,-14.47
+"California","CARB2030","mean","annual","CarPassenger",3503.4,2855.29326823067,-18.5
+"Sacramento Area","CARB2030","mean","annual","CarPassenger",4226.5,3662.87825541261,-13.34
+"San Diego County","CARB2030","mean","annual","CarPassenger",3062,2459.33318148458,-19.68
+"San Joaquin Valley","CARB2030","mean","annual","CarPassenger",3257.1,2712.51202650014,-16.72
+"SF Bay Area","CARB2030","mean","annual","CarPassenger",1824.1,1122.2950555452,-38.47
+"Southern California","CARB2030","mean","annual","CarPassenger",4181.9,3576.63269954153,-14.47
+"California","CARB2030","mean","annual","Bus",297.5,1190,300
+"Sacramento Area","CARB2030","mean","annual","Bus",160.3,641.2,300
+"San Diego County","CARB2030","mean","annual","Bus",234.8,939.2,300
+"San Joaquin Valley","CARB2030","mean","annual","Bus",397.9,1591.6,300
+"SF Bay Area","CARB2030","mean","annual","Bus",293.6,1174.4,300
+"Southern California","CARB2030","mean","annual","Bus",303.7,1214.8,300
+"California","CARB2030","mean","annual","Rail",146.6,586.4,300
+"Sacramento Area","CARB2030","mean","annual","Rail",32.5,130,300
+"San Diego County","CARB2030","mean","annual","Rail",94.6,378.4,300
+"San Joaquin Valley","CARB2030","mean","annual","Rail",8,32,300
+"SF Bay Area","CARB2030","mean","annual","Rail",354.5,1418,300
+"Southern California","CARB2030","mean","annual","Rail",120.2,480.8,300
+"California","CARB2030","mean","annual","Motorcycle",34,34,0
+"Sacramento Area","CARB2030","mean","annual","Motorcycle",46.7,46.7,0
+"San Diego County","CARB2030","mean","annual","Motorcycle",49.2,49.2,0
+"San Joaquin Valley","CARB2030","mean","annual","Motorcycle",22.7,22.7,0
+"SF Bay Area","CARB2030","mean","annual","Motorcycle",47.9,47.9,0
+"Southern California","CARB2030","mean","annual","Motorcycle",27,27,0
+"California","CARB2030","mean","annual","Truck",661.7,661.7,0
+"Sacramento Area","CARB2030","mean","annual","Truck",622.1,622.1,0
+"San Diego County","CARB2030","mean","annual","Truck",1272.5,1272.5,0
+"San Joaquin Valley","CARB2030","mean","annual","Truck",1108.3,1108.3,0
+"SF Bay Area","CARB2030","mean","annual","Truck",677.2,677.2,0
+"Southern California","CARB2030","mean","annual","Truck",464.2,464.2,0
+"California","CARB2030","mean","annual","Total",11657.1,11657.1,0
+"Sacramento Area","CARB2030","mean","annual","Total",10886.5,10886.5,0
+"San Diego County","CARB2030","mean","annual","Total",9672.6,9672.6,0
+"San Joaquin Valley","CARB2030","mean","annual","Total",11091.9,11091.9,0
+"SF Bay Area","CARB2030","mean","annual","Total",9092.8,9092.8,0
+"Southern California","CARB2030","mean","annual","Total",13178.1,13178.1,0
+"California","SCS2040","mean","annual","Walk",96.2,125.1,30.04
+"Sacramento Area","SCS2040","mean","annual","Walk",84.5,98,15.98
+"San Diego County","SCS2040","mean","annual","Walk",76.8,144.1,87.63
+"San Joaquin Valley","SCS2040","mean","annual","Walk",72.5,130.1,79.45
+"SF Bay Area","SCS2040","mean","annual","Walk",150.7,167.2,10.95
+"Southern California","SCS2040","mean","annual","Walk",84.9,108.2,27.44
+"California","SCS2040","mean","annual","Bike",37.5,56.7,51.2
+"Sacramento Area","SCS2040","mean","annual","Bike",60.7,67.6,11.37
+"San Diego County","SCS2040","mean","annual","Bike",42.1,79,87.65
+"San Joaquin Valley","SCS2040","mean","annual","Bike",18.4,40.3,119.02
+"SF Bay Area","SCS2040","mean","annual","Bike",61.5,73.4,19.35
+"Southern California","SCS2040","mean","annual","Bike",29,49,68.97
+"California","SCS2040","mean","annual","CarDriver",6880.2,6318.7,-8.16
+"Sacramento Area","SCS2040","mean","annual","CarDriver",5653.2,5070.5,-10.31
+"San Diego County","SCS2040","mean","annual","CarDriver",4840.6,4288.5,-11.41
+"San Joaquin Valley","SCS2040","mean","annual","CarDriver",6207,5499,-11.41
+"SF Bay Area","SCS2040","mean","annual","CarDriver",5683.3,5167.1,-9.08
+"Southern California","SCS2040","mean","annual","CarDriver",7967.2,7421.5,-6.85
+"California","SCS2040","mean","annual","CarPassenger",3503.4,3228,-7.86
+"Sacramento Area","SCS2040","mean","annual","CarPassenger",4226.5,3790.9,-10.31
+"San Diego County","SCS2040","mean","annual","CarPassenger",3062,2712.8,-11.4
+"San Joaquin Valley","SCS2040","mean","annual","CarPassenger",3257.1,2986.1,-8.32
+"SF Bay Area","SCS2040","mean","annual","CarPassenger",1824.1,1658.4,-9.08
+"Southern California","SCS2040","mean","annual","CarPassenger",4181.9,3895.4,-6.85
+"California","SCS2040","mean","annual","Bus",297.5,385.6,29.61
+"Sacramento Area","SCS2040","mean","annual","Bus",160.3,393.4,145.41
+"San Diego County","SCS2040","mean","annual","Bus",234.8,406,72.91
+"San Joaquin Valley","SCS2040","mean","annual","Bus",397.9,597.3,50.11
+"SF Bay Area","SCS2040","mean","annual","Bus",293.6,410.6,39.85
+"Southern California","SCS2040","mean","annual","Bus",303.7,325.3,7.11
+"California","SCS2040","mean","annual","Rail",146.6,244.5,66.78
+"Sacramento Area","SCS2040","mean","annual","Rail",32.5,79.8,145.54
+"San Diego County","SCS2040","mean","annual","Rail",94.6,163.6,72.94
+"San Joaquin Valley","SCS2040","mean","annual","Rail",8,12,50
+"SF Bay Area","SCS2040","mean","annual","Rail",354.5,495.7,39.83
+"Southern California","SCS2040","mean","annual","Rail",120.2,232.9,93.76
+"California","SCS2040","mean","annual","Motorcycle",34,32.5,-4.41
+"Sacramento Area","SCS2040","mean","annual","Motorcycle",46.7,46.7,0
+"San Diego County","SCS2040","mean","annual","Motorcycle",49.2,49.2,0
+"San Joaquin Valley","SCS2040","mean","annual","Motorcycle",22.7,10.6,-53.3
+"SF Bay Area","SCS2040","mean","annual","Motorcycle",47.9,47.9,0
+"Southern California","SCS2040","mean","annual","Motorcycle",27,27,0
+"California","SCS2040","mean","annual","Truck",661.7,664.7,0.45
+"Sacramento Area","SCS2040","mean","annual","Truck",622.1,622.1,0
+"San Diego County","SCS2040","mean","annual","Truck",1272.5,1272.5,0
+"San Joaquin Valley","SCS2040","mean","annual","Truck",1108.3,1133.1,2.24
+"SF Bay Area","SCS2040","mean","annual","Truck",677.2,677.2,0
+"Southern California","SCS2040","mean","annual","Truck",464.2,464.2,0
+"California","SCS2040","mean","annual","Total",11657.1,11055.8,-5.16
+"Sacramento Area","SCS2040","mean","annual","Total",10886.5,10169,-6.59
+"San Diego County","SCS2040","mean","annual","Total",9672.6,9115.7,-5.76
+"San Joaquin Valley","SCS2040","mean","annual","Total",11091.9,10408.5,-6.16
+"SF Bay Area","SCS2040","mean","annual","Total",9092.8,8697.5,-4.35
+"Southern California","SCS2040","mean","annual","Total",13178.1,12523.5,-4.97
+"California","USSG","mean","annual","Walk",96.2,351.65,265.54
+"Sacramento Area","USSG","mean","annual","Walk",84.5,360.204,326.28
+"San Diego County","USSG","mean","annual","Walk",76.8,325.546,323.89
+"San Joaquin Valley","USSG","mean","annual","Walk",72.5,428.87,491.54
+"SF Bay Area","USSG","mean","annual","Walk",150.7,328.614,118.06
+"Southern California","USSG","mean","annual","Walk",84.9,361.374,325.65
+"California","USSG","mean","annual","Bike",37.5,1406.6,3650.93
+"Sacramento Area","USSG","mean","annual","Bike",60.7,1440.816,2273.67
+"San Diego County","USSG","mean","annual","Bike",42.1,1302.184,2993.07
+"San Joaquin Valley","USSG","mean","annual","Bike",18.4,1715.48,9223.26
+"SF Bay Area","USSG","mean","annual","Bike",61.5,1314.456,2037.33
+"Southern California","USSG","mean","annual","Bike",29,1445.496,4884.47
+"California","USSG","mean","annual","CarDriver",6880.2,5803.7690020802,-15.65
+"Sacramento Area","USSG","mean","annual","CarDriver",5653.2,4705.73381944796,-16.76
+"San Diego County","USSG","mean","annual","CarDriver",4840.6,3916.39246096222,-19.09
+"San Joaquin Valley","USSG","mean","annual","CarDriver",6207,4860.2513234222,-21.7
+"SF Bay Area","USSG","mean","annual","CarDriver",5683.3,4600.09363414764,-19.06
+"Southern California","USSG","mean","annual","CarDriver",7967.2,6856.97532623816,-13.93
+"California","USSG","mean","annual","CarPassenger",3503.4,2955.2809979198,-15.65
+"Sacramento Area","USSG","mean","annual","CarPassenger",4226.5,3518.14618055204,-16.76
+"San Diego County","USSG","mean","annual","CarPassenger",3062,2477.37753903779,-19.09
+"San Joaquin Valley","USSG","mean","annual","CarPassenger",3257.1,2550.3986765778,-21.7
+"SF Bay Area","USSG","mean","annual","CarPassenger",1824.1,1476.43636585236,-19.06
+"Southern California","USSG","mean","annual","CarPassenger",4181.9,3599.15467376184,-13.93
+"California","USSG","mean","annual","Bus",297.5,297.5,0
+"Sacramento Area","USSG","mean","annual","Bus",160.3,160.3,0
+"San Diego County","USSG","mean","annual","Bus",234.8,234.8,0
+"San Joaquin Valley","USSG","mean","annual","Bus",397.9,397.9,0
+"SF Bay Area","USSG","mean","annual","Bus",293.6,293.6,0
+"Southern California","USSG","mean","annual","Bus",303.7,303.7,0
+"California","USSG","mean","annual","Rail",146.6,146.6,0
+"Sacramento Area","USSG","mean","annual","Rail",32.5,32.5,0
+"San Diego County","USSG","mean","annual","Rail",94.6,94.6,0
+"San Joaquin Valley","USSG","mean","annual","Rail",8,8,0
+"SF Bay Area","USSG","mean","annual","Rail",354.5,354.5,0
+"Southern California","USSG","mean","annual","Rail",120.2,120.2,0
+"California","USSG","mean","annual","Motorcycle",34,34,0
+"Sacramento Area","USSG","mean","annual","Motorcycle",46.7,46.7,0
+"San Diego County","USSG","mean","annual","Motorcycle",49.2,49.2,0
+"San Joaquin Valley","USSG","mean","annual","Motorcycle",22.7,22.7,0
+"SF Bay Area","USSG","mean","annual","Motorcycle",47.9,47.9,0
+"Southern California","USSG","mean","annual","Motorcycle",27,27,0
+"California","USSG","mean","annual","Truck",661.7,661.7,0
+"Sacramento Area","USSG","mean","annual","Truck",622.1,622.1,0
+"San Diego County","USSG","mean","annual","Truck",1272.5,1272.5,0
+"San Joaquin Valley","USSG","mean","annual","Truck",1108.3,1108.3,0
+"SF Bay Area","USSG","mean","annual","Truck",677.2,677.2,0
+"Southern California","USSG","mean","annual","Truck",464.2,464.2,0
+"California","USSG","mean","annual","Total",11657.1,11657.1,0
+"Sacramento Area","USSG","mean","annual","Total",10886.5,10886.5,0
+"San Diego County","USSG","mean","annual","Total",9672.6,9672.6,0
+"San Joaquin Valley","USSG","mean","annual","Total",11091.9,11091.9,0
+"SF Bay Area","USSG","mean","annual","Total",9092.8,9092.8,0
+"Southern California","USSG","mean","annual","Total",13178.1,13178.1,0
+"California","ShortTrips","mean","annual","Walk",96.2,163.6934,70.16
+"Sacramento Area","ShortTrips","mean","annual","Walk",84.5,148.71805,76
+"San Diego County","ShortTrips","mean","annual","Walk",76.8,124.2156,61.74
+"San Joaquin Valley","ShortTrips","mean","annual","Walk",72.5,138.7487,91.38
+"SF Bay Area","ShortTrips","mean","annual","Walk",150.7,207.0055,37.36
+"Southern California","ShortTrips","mean","annual","Walk",84.9,163.86915,93.01
+"California","ShortTrips","mean","annual","Bike",37.5,888.9552,2270.55
+"Sacramento Area","ShortTrips","mean","annual","Bike",60.7,1142.52715,1782.25
+"San Diego County","ShortTrips","mean","annual","Bike",42.1,670.3567,1492.3
+"San Joaquin Valley","ShortTrips","mean","annual","Bike",18.4,704.54725,3729.06
+"SF Bay Area","ShortTrips","mean","annual","Bike",61.5,951.1269,1446.55
+"Southern California","ShortTrips","mean","annual","Bike",29,1061.6735,3560.94
+"California","ShortTrips","mean","annual","CarDriver",6880.2,6094.12237396279,-11.43
+"Sacramento Area","ShortTrips","mean","annual","CarDriver",5653.2,4831.26087182404,-14.54
+"San Diego County","ShortTrips","mean","annual","CarDriver",4840.6,4281.0684514742,-11.56
+"San Joaquin Valley","ShortTrips","mean","annual","CarDriver",6207,5594.31054599486,-9.87
+"SF Bay Area","ShortTrips","mean","annual","CarDriver",5683.3,4645.9221955777,-18.25
+"Southern California","ShortTrips","mean","annual","CarDriver",7967.2,7088.81333093974,-11.03
+"California","ShortTrips","mean","annual","CarPassenger",3503.4,3103.12902603721,-11.43
+"Sacramento Area","ShortTrips","mean","annual","CarPassenger",4226.5,3611.99392817596,-14.54
+"San Diego County","ShortTrips","mean","annual","CarPassenger",3062,2708.0592485258,-11.56
+"San Joaquin Valley","ShortTrips","mean","annual","CarPassenger",3257.1,2935.59350400514,-9.87
+"SF Bay Area","ShortTrips","mean","annual","CarPassenger",1824.1,1491.1454044223,-18.25
+"Southern California","ShortTrips","mean","annual","CarPassenger",4181.9,3720.84401906026,-11.03
+"California","ShortTrips","mean","annual","Bus",297.5,297.5,0
+"Sacramento Area","ShortTrips","mean","annual","Bus",160.3,160.3,0
+"San Diego County","ShortTrips","mean","annual","Bus",234.8,234.8,0
+"San Joaquin Valley","ShortTrips","mean","annual","Bus",397.9,397.9,0
+"SF Bay Area","ShortTrips","mean","annual","Bus",293.6,293.6,0
+"Southern California","ShortTrips","mean","annual","Bus",303.7,303.7,0
+"California","ShortTrips","mean","annual","Rail",146.6,146.6,0
+"Sacramento Area","ShortTrips","mean","annual","Rail",32.5,32.5,0
+"San Diego County","ShortTrips","mean","annual","Rail",94.6,94.6,0
+"San Joaquin Valley","ShortTrips","mean","annual","Rail",8,8,0
+"SF Bay Area","ShortTrips","mean","annual","Rail",354.5,354.5,0
+"Southern California","ShortTrips","mean","annual","Rail",120.2,120.2,0
+"California","ShortTrips","mean","annual","Motorcycle",34,34,0
+"Sacramento Area","ShortTrips","mean","annual","Motorcycle",46.7,46.7,0
+"San Diego County","ShortTrips","mean","annual","Motorcycle",49.2,49.2,0
+"San Joaquin Valley","ShortTrips","mean","annual","Motorcycle",22.7,22.7,0
+"SF Bay Area","ShortTrips","mean","annual","Motorcycle",47.9,47.9,0
+"Southern California","ShortTrips","mean","annual","Motorcycle",27,27,0
+"California","ShortTrips","mean","annual","Truck",661.7,661.7,0
+"Sacramento Area","ShortTrips","mean","annual","Truck",622.1,622.1,0
+"San Diego County","ShortTrips","mean","annual","Truck",1272.5,1272.5,0
+"San Joaquin Valley","ShortTrips","mean","annual","Truck",1108.3,1108.3,0
+"SF Bay Area","ShortTrips","mean","annual","Truck",677.2,677.2,0
+"Southern California","ShortTrips","mean","annual","Truck",464.2,464.2,0
+"California","ShortTrips","mean","annual","Total",11657.1,11389.7,-2.29
+"Sacramento Area","ShortTrips","mean","annual","Total",10886.5,10596.1,-2.67
+"San Diego County","ShortTrips","mean","annual","Total",9672.6,9434.8,-2.46
+"San Joaquin Valley","ShortTrips","mean","annual","Total",11091.9,10910.1,-1.64
+"SF Bay Area","ShortTrips","mean","annual","Total",9092.8,8668.4,-4.67
+"Southern California","ShortTrips","mean","annual","Total",13178.1,12950.3,-1.73

@@ -1,0 +1,361 @@
+"Region","ScenarioName","Centraltend","Time","Mode","Baseline","Scenario","PercentChange"
+"California","CSMP2020","mean","weekly","Walk",36.8722618,73.7445236,100
+"Sacramento Area","CSMP2020","mean","weekly","Walk",32.4,64.8,100
+"San Diego County","CSMP2020","mean","weekly","Walk",29.5,59,100
+"San Joaquin Valley","CSMP2020","mean","weekly","Walk",27.8,55.6,100
+"SF Bay Area","CSMP2020","mean","weekly","Walk",57.7967337,115.5934674,100
+"Southern California","CSMP2020","mean","weekly","Walk",32.6,65.2,100
+"California","CSMP2020","mean","weekly","Bike",3.6107393,10.8322179,200
+"Sacramento Area","CSMP2020","mean","weekly","Bike",5.8,17.4,200
+"San Diego County","CSMP2020","mean","weekly","Bike",4,12,200
+"San Joaquin Valley","CSMP2020","mean","weekly","Bike",1.8,5.4,200
+"SF Bay Area","CSMP2020","mean","weekly","Bike",5.8972102,17.6916306,200
+"Southern California","CSMP2020","mean","weekly","Bike",2.8,8.4,200
+"California","CSMP2020","mean","weekly","Total",40.4830011,84.5767415,108.919149277201
+"Sacramento Area","CSMP2020","mean","weekly","Total",38.2,82.2,115.183246073298
+"San Diego County","CSMP2020","mean","weekly","Total",33.5,71,111.940298507463
+"San Joaquin Valley","CSMP2020","mean","weekly","Total",29.6,61,106.081081081081
+"SF Bay Area","CSMP2020","mean","weekly","Total",63.6939439,133.285098,109.258667055158
+"Southern California","CSMP2020","mean","weekly","Total",35.4,73.6,107.909604519774
+"California","CSMP2020","median","weekly","Walk",17.4931280349376,36.0049049193067,105.823137219354
+"Sacramento Area","CSMP2020","median","weekly","Walk",14.9568519857661,30.7656777315285,105.696210411168
+"San Diego County","CSMP2020","median","weekly","Walk",15.1453251811537,31.0791839862874,105.206448950738
+"San Joaquin Valley","CSMP2020","median","weekly","Walk",10.6089511196833,21.5862438443035,103.471988896749
+"SF Bay Area","CSMP2020","median","weekly","Walk",29.9793141245031,62.9274184297547,109.902795535679
+"Southern California","CSMP2020","median","weekly","Walk",14.9701219335151,30.6753340138428,104.910381826396
+"California","CSMP2020","median","weekly","Bike",1.71302550459979,5.28870425240245,208.734705829031
+"Sacramento Area","CSMP2020","median","weekly","Bike",2.67746115794579,8.2611542056882,208.544315616752
+"San Diego County","CSMP2020","median","weekly","Bike",2.05360341439372,6.32118996331269,207.809673426106
+"San Joaquin Valley","CSMP2020","median","weekly","Bike",0.686910504152157,2.09650569710862,205.207983345123
+"SF Bay Area","CSMP2020","median","weekly","Bike",3.05889806786822,9.6310688355634,214.854193303519
+"Southern California","CSMP2020","median","weekly","Bike",1.28577734398289,3.95203689748895,207.365572739594
+"California","CSMP2020","median","weekly","Total",19.2061535395374,41.2936091717092,115.00197364716
+"Sacramento Area","CSMP2020","median","weekly","Total",17.6343131437119,39.0268319372167,121.311891306257
+"San Diego County","CSMP2020","median","weekly","Total",17.1989285955474,37.4003739496001,117.457580231379
+"San Joaquin Valley","CSMP2020","median","weekly","Total",11.2958616238355,23.6827495414122,109.658637207799
+"SF Bay Area","CSMP2020","median","weekly","Total",33.0382121923713,72.5584872653181,119.619896024738
+"Southern California","CSMP2020","median","weekly","Total",16.255899277498,34.6273709113318,113.014182237609
+"California","CSMP2020","mean","daily","Walk",5.26746597142857,10.5349319428571,100
+"Sacramento Area","CSMP2020","mean","daily","Walk",4.62857142857143,9.25714285714286,100
+"San Diego County","CSMP2020","mean","daily","Walk",4.21428571428571,8.42857142857143,100
+"San Joaquin Valley","CSMP2020","mean","daily","Walk",3.97142857142857,7.94285714285714,100
+"SF Bay Area","CSMP2020","mean","daily","Walk",8.25667624285714,16.5133524857143,100
+"Southern California","CSMP2020","mean","daily","Walk",4.65714285714286,9.31428571428571,100
+"California","CSMP2020","mean","daily","Bike",0.5158199,1.5474597,200
+"Sacramento Area","CSMP2020","mean","daily","Bike",0.828571428571429,2.48571428571429,200
+"San Diego County","CSMP2020","mean","daily","Bike",0.571428571428571,1.71428571428571,200
+"San Joaquin Valley","CSMP2020","mean","daily","Bike",0.257142857142857,0.771428571428571,200
+"SF Bay Area","CSMP2020","mean","daily","Bike",0.8424586,2.5273758,200
+"Southern California","CSMP2020","mean","daily","Bike",0.4,1.2,200
+"California","CSMP2020","mean","daily","Total",5.78328587142857,12.0823916428571,108.919149277201
+"Sacramento Area","CSMP2020","mean","daily","Total",5.45714285714286,11.7428571428571,115.183246073298
+"San Diego County","CSMP2020","mean","daily","Total",4.78571428571429,10.1428571428571,111.940298507463
+"San Joaquin Valley","CSMP2020","mean","daily","Total",4.22857142857143,8.71428571428571,106.081081081081
+"SF Bay Area","CSMP2020","mean","daily","Total",9.09913484285714,19.0407282857143,109.258667055158
+"Southern California","CSMP2020","mean","daily","Total",5.05714285714286,10.5142857142857,107.909604519774
+"California","CSMP2020","median","daily","Walk",2.49901829070537,5.14355784561525,105.823137219354
+"Sacramento Area","CSMP2020","median","daily","Walk",2.13669314082373,4.39509681878978,105.696210411168
+"San Diego County","CSMP2020","median","daily","Walk",2.16361788302196,4.43988342661248,105.206448950738
+"San Joaquin Valley","CSMP2020","median","daily","Walk",1.51556444566904,3.08374912061479,103.471988896749
+"SF Bay Area","CSMP2020","median","daily","Walk",4.2827591606433,8.98963120425067,109.902795535679
+"Southern California","CSMP2020","median","daily","Walk",2.13858884764501,4.38219057340612,104.910381826396
+"California","CSMP2020","median","daily","Bike",0.244717929228542,0.755529178914635,208.734705829031
+"Sacramento Area","CSMP2020","median","daily","Bike",0.382494451135112,1.18016488652689,208.544315616752
+"San Diego County","CSMP2020","median","daily","Bike",0.29337191634196,0.903027137616098,207.809673426106
+"San Joaquin Valley","CSMP2020","median","daily","Bike",0.0981300720217368,0.29950081387266,205.207983345123
+"SF Bay Area","CSMP2020","median","daily","Bike",0.436985438266888,1.37586697650906,214.854193303519
+"Southern California","CSMP2020","median","daily","Bike",0.183682477711841,0.564576699641279,207.365572739594
+"California","CSMP2020","median","daily","Total",2.74373621993391,5.89908702452988,115.00197364716
+"Sacramento Area","CSMP2020","median","daily","Total",2.51918759195884,5.57526170531666,121.311891306257
+"San Diego County","CSMP2020","median","daily","Total",2.45698979936392,5.34291056422858,117.457580231379
+"San Joaquin Valley","CSMP2020","median","daily","Total",1.61369451769078,3.38324993448745,109.658637207799
+"SF Bay Area","CSMP2020","median","daily","Total",4.71974459891019,10.3654981807597,119.619896024738
+"Southern California","CSMP2020","median","daily","Total",2.32227132535685,4.9467672730474,113.014182237609
+"California","CARB2030","mean","weekly","Walk",36.8722618,147.4890472,300
+"Sacramento Area","CARB2030","mean","weekly","Walk",32.4,129.6,300
+"San Diego County","CARB2030","mean","weekly","Walk",29.5,118,300
+"San Joaquin Valley","CARB2030","mean","weekly","Walk",27.8,111.2,300
+"SF Bay Area","CARB2030","mean","weekly","Walk",57.7967337,231.1869348,300
+"Southern California","CARB2030","mean","weekly","Walk",32.6,130.4,300
+"California","CARB2030","mean","weekly","Bike",3.6107393,32.4966537,800
+"Sacramento Area","CARB2030","mean","weekly","Bike",5.8,52.2,800
+"San Diego County","CARB2030","mean","weekly","Bike",4,36,800
+"San Joaquin Valley","CARB2030","mean","weekly","Bike",1.8,16.2,800
+"SF Bay Area","CARB2030","mean","weekly","Bike",5.8972102,53.0748918,800
+"Southern California","CARB2030","mean","weekly","Bike",2.8,25.2,800
+"California","CARB2030","mean","weekly","Total",40.4830011,179.9857009,344.595746386006
+"Sacramento Area","CARB2030","mean","weekly","Total",38.2,181.8,375.916230366492
+"San Diego County","CARB2030","mean","weekly","Total",33.5,154,359.701492537313
+"San Joaquin Valley","CARB2030","mean","weekly","Total",29.6,127.4,330.405405405405
+"SF Bay Area","CARB2030","mean","weekly","Total",63.6939439,284.2618266,346.293335275789
+"Southern California","CARB2030","mean","weekly","Total",35.4,155.6,339.54802259887
+"California","CARB2030","median","weekly","Walk",17.4931280349376,76.7749762067062,338.886493332524
+"Sacramento Area","CARB2030","median","weekly","Walk",14.9568519857661,65.7085885787165,339.320979048592
+"San Diego County","CARB2030","median","weekly","Walk",15.1453251811537,65.8925296959454,335.068438001844
+"San Joaquin Valley","CARB2030","median","weekly","Walk",10.6089511196833,44.8094215041155,322.373720065298
+"SF Bay Area","CARB2030","median","weekly","Walk",29.9793141245031,140.417603287461,368.381640434837
+"Southern California","CARB2030","median","weekly","Walk",14.9701219335151,64.723469819307,332.350986229472
+"California","CARB2030","median","weekly","Bike",1.71302550459979,16.9160345258171,887.494609998181
+"Sacramento Area","CARB2030","median","weekly","Bike",2.67746115794579,26.4659592886497,888.472202859334
+"San Diego County","CARB2030","median","weekly","Bike",2.05360341439372,20.1028056699494,878.90398550415
+"San Joaquin Valley","CARB2030","median","weekly","Bike",0.686910504152157,6.52799126229021,850.340870146921
+"SF Bay Area","CARB2030","median","weekly","Bike",3.05889806786822,32.2364631363991,953.858690978384
+"Southern California","CARB2030","median","weekly","Bike",1.28577734398289,12.5079098117066,872.789719016313
+"California","CARB2030","median","weekly","Total",19.2061535395374,93.6910107325233,387.817670204776
+"Sacramento Area","CARB2030","median","weekly","Total",17.6343131437119,92.1745478673663,422.699960674307
+"San Diego County","CARB2030","median","weekly","Total",17.1989285955474,85.9953353658948,400.004025763314
+"San Joaquin Valley","CARB2030","median","weekly","Total",11.2958616238355,51.3374127664057,354.479830543235
+"SF Bay Area","CARB2030","median","weekly","Total",33.0382121923713,172.65406642386,422.589011229022
+"Southern California","CARB2030","median","weekly","Total",16.255899277498,77.2313796310136,375.097552664589
+"California","CARB2030","mean","daily","Walk",5.26746597142857,21.0698638857143,300
+"Sacramento Area","CARB2030","mean","daily","Walk",4.62857142857143,18.5142857142857,300
+"San Diego County","CARB2030","mean","daily","Walk",4.21428571428571,16.8571428571429,300
+"San Joaquin Valley","CARB2030","mean","daily","Walk",3.97142857142857,15.8857142857143,300
+"SF Bay Area","CARB2030","mean","daily","Walk",8.25667624285714,33.0267049714286,300
+"Southern California","CARB2030","mean","daily","Walk",4.65714285714286,18.6285714285714,300
+"California","CARB2030","mean","daily","Bike",0.5158199,4.6423791,800
+"Sacramento Area","CARB2030","mean","daily","Bike",0.828571428571429,7.45714285714286,800
+"San Diego County","CARB2030","mean","daily","Bike",0.571428571428571,5.14285714285714,800
+"San Joaquin Valley","CARB2030","mean","daily","Bike",0.257142857142857,2.31428571428571,800
+"SF Bay Area","CARB2030","mean","daily","Bike",0.8424586,7.5821274,800
+"Southern California","CARB2030","mean","daily","Bike",0.4,3.6,800
+"California","CARB2030","mean","daily","Total",5.78328587142857,25.7122429857143,344.595746386006
+"Sacramento Area","CARB2030","mean","daily","Total",5.45714285714286,25.9714285714286,375.916230366492
+"San Diego County","CARB2030","mean","daily","Total",4.78571428571429,22,359.701492537313
+"San Joaquin Valley","CARB2030","mean","daily","Total",4.22857142857143,18.2,330.405405405405
+"SF Bay Area","CARB2030","mean","daily","Total",9.09913484285714,40.6088323714286,346.293335275789
+"Southern California","CARB2030","mean","daily","Total",5.05714285714286,22.2285714285714,339.54802259887
+"California","CARB2030","median","daily","Walk",2.49901829070537,10.9678537438152,338.886493332524
+"Sacramento Area","CARB2030","median","daily","Walk",2.13669314082373,9.38694122553093,339.320979048592
+"San Diego County","CARB2030","median","daily","Walk",2.16361788302196,9.4132185279922,335.068438001844
+"San Joaquin Valley","CARB2030","median","daily","Walk",1.51556444566904,6.40134592915936,322.373720065298
+"SF Bay Area","CARB2030","median","daily","Walk",4.2827591606433,20.0596576124944,368.381640434837
+"Southern California","CARB2030","median","daily","Walk",2.13858884764501,9.24620997418672,332.350986229472
+"California","CARB2030","median","daily","Bike",0.244717929228542,2.41657636083102,887.494609998181
+"Sacramento Area","CARB2030","median","daily","Bike",0.382494451135112,3.78085132694996,888.472202859334
+"San Diego County","CARB2030","median","daily","Bike",0.29337191634196,2.87182938142135,878.90398550415
+"San Joaquin Valley","CARB2030","median","daily","Bike",0.0981300720217368,0.932570180327174,850.340870146921
+"SF Bay Area","CARB2030","median","daily","Bike",0.436985438266888,4.60520901948558,953.858690978384
+"Southern California","CARB2030","median","daily","Bike",0.183682477711841,1.78684425881522,872.789719016313
+"California","CARB2030","median","daily","Total",2.74373621993391,13.3844301046462,387.817670204776
+"Sacramento Area","CARB2030","median","daily","Total",2.51918759195884,13.1677925524809,422.699960674307
+"San Diego County","CARB2030","median","daily","Total",2.45698979936392,12.2850479094135,400.004025763314
+"San Joaquin Valley","CARB2030","median","daily","Total",1.61369451769078,7.33391610948653,354.479830543235
+"SF Bay Area","CARB2030","median","daily","Total",4.71974459891019,24.66486663198,422.589011229022
+"Southern California","CARB2030","median","daily","Total",2.32227132535685,11.0330542330019,375.097552664589
+"California","SCS2040","mean","weekly","Walk",36.8722618,47.98394223,30.135608415538
+"Sacramento Area","SCS2040","mean","weekly","Walk",32.4,37.6,16.0493827160494
+"San Diego County","SCS2040","mean","weekly","Walk",29.5,55.3,87.4576271186441
+"San Joaquin Valley","SCS2040","mean","weekly","Walk",27.8,49.9,79.4964028776978
+"SF Bay Area","SCS2040","mean","weekly","Walk",57.7967337,64.1,10.9059213150656
+"Southern California","SCS2040","mean","weekly","Walk",32.6,41.5,27.3006134969325
+"California","SCS2040","mean","weekly","Bike",3.6107393,5.446946406,50.8540482554362
+"Sacramento Area","SCS2040","mean","weekly","Bike",5.8,6.5,12.0689655172414
+"San Diego County","SCS2040","mean","weekly","Bike",4,7.6,90
+"San Joaquin Valley","SCS2040","mean","weekly","Bike",1.8,3.9,116.666666666667
+"SF Bay Area","SCS2040","mean","weekly","Bike",5.8972102,7.04,19.378481709877
+"Southern California","SCS2040","mean","weekly","Bike",2.8,4.7,67.8571428571429
+"California","SCS2040","mean","weekly","Total",40.4830011,53.430888636,31.9835169927656
+"Sacramento Area","SCS2040","mean","weekly","Total",38.2,44.1,15.4450261780105
+"San Diego County","SCS2040","mean","weekly","Total",33.5,62.9,87.7611940298507
+"San Joaquin Valley","SCS2040","mean","weekly","Total",29.6,53.8,81.7567567567567
+"SF Bay Area","SCS2040","mean","weekly","Total",63.6939439,71.14,11.6903674730684
+"Southern California","SCS2040","mean","weekly","Total",35.4,46.2,30.5084745762712
+"California","SCS2040","median","weekly","Walk",17.4931280349376,22.956081938277,31.2291426234848
+"Sacramento Area","SCS2040","median","weekly","Walk",14.9568519857661,17.4222468356103,16.4833806752275
+"San Diego County","SCS2040","median","weekly","Walk",15.1453251811537,28.9678778284166,91.2661331594461
+"San Joaquin Valley","SCS2040","median","weekly","Walk",10.6089511196833,19.2965423450108,81.8892567919275
+"SF Bay Area","SCS2040","median","weekly","Walk",29.9793141245031,33.4189362673469,11.4733183306302
+"Southern California","SCS2040","median","weekly","Walk",14.9701219335151,19.1873621664072,28.1710479822517
+"California","SCS2040","median","weekly","Bike",1.71302550459979,2.60588318088136,52.1216802601054
+"Sacramento Area","SCS2040","median","weekly","Bike",2.67746115794579,3.01182458594326,12.488077632992
+"San Diego County","SCS2040","median","weekly","Bike",2.05360341439372,3.98111883356177,93.8601584735435
+"San Joaquin Valley","SCS2040","median","weekly","Bike",0.686910504152157,1.50814659610305,119.555034751511
+"SF Bay Area","SCS2040","median","weekly","Bike",3.05889806786822,3.67034807054794,19.9892245218177
+"Southern California","SCS2040","median","weekly","Bike",1.28577734398289,2.17302655860515,69.0048878815887
+"California","SCS2040","median","weekly","Total",19.2061535395374,25.5619651191584,33.0925792430904
+"Sacramento Area","SCS2040","median","weekly","Total",17.6343131437119,20.4340714215535,15.8767639829509
+"San Diego County","SCS2040","median","weekly","Total",17.1989285955474,32.9489966619783,91.5758675253085
+"San Joaquin Valley","SCS2040","median","weekly","Total",11.2958616238355,20.8046889411139,84.1797432894698
+"SF Bay Area","SCS2040","median","weekly","Total",33.0382121923713,37.0892843378949,12.2617777316018
+"Southern California","SCS2040","median","weekly","Total",16.255899277498,21.3603887250124,31.4008432285269
+"California","SCS2040","mean","daily","Walk",5.26746597142857,6.85484889,30.135608415538
+"Sacramento Area","SCS2040","mean","daily","Walk",4.62857142857143,5.37142857142857,16.0493827160494
+"San Diego County","SCS2040","mean","daily","Walk",4.21428571428571,7.9,87.457627118644
+"San Joaquin Valley","SCS2040","mean","daily","Walk",3.97142857142857,7.12857142857143,79.4964028776978
+"SF Bay Area","SCS2040","mean","daily","Walk",8.25667624285714,9.15714285714286,10.9059213150656
+"Southern California","SCS2040","mean","daily","Walk",4.65714285714286,5.92857142857143,27.3006134969325
+"California","SCS2040","mean","daily","Bike",0.5158199,0.778135200857143,50.8540482554362
+"Sacramento Area","SCS2040","mean","daily","Bike",0.828571428571429,0.928571428571429,12.0689655172414
+"San Diego County","SCS2040","mean","daily","Bike",0.571428571428571,1.08571428571429,90
+"San Joaquin Valley","SCS2040","mean","daily","Bike",0.257142857142857,0.557142857142857,116.666666666667
+"SF Bay Area","SCS2040","mean","daily","Bike",0.8424586,1.00571428571429,19.378481709877
+"Southern California","SCS2040","mean","daily","Bike",0.4,0.671428571428571,67.8571428571429
+"California","SCS2040","mean","daily","Total",5.78328587142857,7.63298409085714,31.9835169927656
+"Sacramento Area","SCS2040","mean","daily","Total",5.45714285714286,6.3,15.4450261780105
+"San Diego County","SCS2040","mean","daily","Total",4.78571428571429,8.98571428571429,87.7611940298507
+"San Joaquin Valley","SCS2040","mean","daily","Total",4.22857142857143,7.68571428571429,81.7567567567567
+"SF Bay Area","SCS2040","mean","daily","Total",9.09913484285714,10.1628571428571,11.6903674730684
+"Southern California","SCS2040","mean","daily","Total",5.05714285714286,6.6,30.5084745762712
+"California","SCS2040","median","daily","Walk",2.49901829070537,3.27944027689672,31.2291426234848
+"Sacramento Area","SCS2040","median","daily","Walk",2.13669314082373,2.48889240508718,16.4833806752275
+"San Diego County","SCS2040","median","daily","Walk",2.16361788302196,4.13826826120236,91.2661331594461
+"San Joaquin Valley","SCS2040","median","daily","Walk",1.51556444566904,2.75664890643012,81.8892567919275
+"SF Bay Area","SCS2040","median","daily","Walk",4.2827591606433,4.77413375247813,11.4733183306302
+"Southern California","SCS2040","median","daily","Walk",2.13858884764501,2.74105173805817,28.1710479822517
+"California","SCS2040","median","daily","Bike",0.244717929228542,0.372269025840194,52.1216802601054
+"Sacramento Area","SCS2040","median","daily","Bike",0.382494451135112,0.430260655134752,12.488077632992
+"San Diego County","SCS2040","median","daily","Bike",0.29337191634196,0.568731261937396,93.8601584735435
+"San Joaquin Valley","SCS2040","median","daily","Bike",0.0981300720217368,0.215449513729007,119.555034751511
+"SF Bay Area","SCS2040","median","daily","Bike",0.436985438266888,0.524335438649705,19.9892245218177
+"Southern California","SCS2040","median","daily","Bike",0.183682477711841,0.310432365515022,69.0048878815887
+"California","SCS2040","median","daily","Total",2.74373621993391,3.65170930273691,33.0925792430904
+"Sacramento Area","SCS2040","median","daily","Total",2.51918759195884,2.91915306022193,15.8767639829509
+"San Diego County","SCS2040","median","daily","Total",2.45698979936392,4.70699952313976,91.5758675253085
+"San Joaquin Valley","SCS2040","median","daily","Total",1.61369451769078,2.97209842015913,84.1797432894698
+"SF Bay Area","SCS2040","median","daily","Total",4.71974459891019,5.29846919112784,12.2617777316018
+"Southern California","SCS2040","median","daily","Total",2.32227132535685,3.0514841035732,31.4008432285269
+"California","USSG","mean","weekly","Walk",36.87,135.25,266.829400596691
+"California","USSG","mean","weekly","Bike",3.61,135.25,3646.53739612188
+"California","USSG","mean","weekly","Total",40.48,270.49,568.20652173913
+"SF Bay Area","USSG","mean","weekly","Walk",57.8,126.39,118.667820069204
+"SF Bay Area","USSG","mean","weekly","Bike",5.9,126.39,2042.20338983051
+"SF Bay Area","USSG","mean","weekly","Total",63.69,252.79,296.906892761815
+"San Joaquin Valley","USSG","mean","weekly","Walk",27.8,164.95,493.345323741007
+"San Joaquin Valley","USSG","mean","weekly","Bike",1.8,164.95,9063.88888888889
+"San Joaquin Valley","USSG","mean","weekly","Total",29.6,329.89,1014.49324324324
+"Sacramento Area","USSG","mean","weekly","Walk",32.4,138.54,327.592592592593
+"Sacramento Area","USSG","mean","weekly","Bike",5.8,138.54,2288.62068965517
+"Sacramento Area","USSG","mean","weekly","Total",38.2,277.07,625.314136125654
+"Southern California","USSG","mean","weekly","Walk",32.6,138.99,326.349693251534
+"Southern California","USSG","mean","weekly","Bike",2.8,138.99,4863.92857142857
+"Southern California","USSG","mean","weekly","Total",35.4,277.98,685.254237288136
+"San Diego County","USSG","mean","weekly","Walk",29.5,125.21,324.440677966102
+"San Diego County","USSG","mean","weekly","Bike",4,125.21,3030.25
+"San Diego County","USSG","mean","weekly","Total",33.5,250.42,647.522388059701
+"California","USSG","median","weekly","Walk",17.49,75,328.816466552316
+"California","USSG","median","weekly","Bike",1.71,75,4285.9649122807
+"California","USSG","median","weekly","Total",19.21,150,680.843310775638
+"SF Bay Area","USSG","median","weekly","Walk",29.98,75,150.166777851901
+"SF Bay Area","USSG","median","weekly","Bike",3.06,75,2350.98039215686
+"SF Bay Area","USSG","median","weekly","Total",33.04,150,353.995157384988
+"San Joaquin Valley","USSG","median","weekly","Walk",10.61,75,606.880301602262
+"San Joaquin Valley","USSG","median","weekly","Bike",0.69,75,10769.5652173913
+"San Joaquin Valley","USSG","median","weekly","Total",11.3,150,1227.43362831858
+"Sacramento Area","USSG","median","weekly","Walk",14.96,75,401.336898395722
+"Sacramento Area","USSG","median","weekly","Bike",2.68,75,2698.50746268657
+"Sacramento Area","USSG","median","weekly","Total",17.63,150,750.822461712989
+"Southern California","USSG","median","weekly","Walk",14.97,75,401.002004008016
+"Southern California","USSG","median","weekly","Bike",1.29,75,5713.95348837209
+"Southern California","USSG","median","weekly","Total",16.26,150,822.509225092251
+"San Diego County","USSG","median","weekly","Walk",15.15,75,395.049504950495
+"San Diego County","USSG","median","weekly","Bike",2.05,75,3558.53658536585
+"San Diego County","USSG","median","weekly","Total",17.2,150,772.093023255814
+"California","USSG","mean","daily","Walk",5.27,19.32,266.603415559772
+"California","USSG","mean","daily","Bike",0.52,19.32,3615.38461538462
+"California","USSG","mean","daily","Total",5.78,38.64,568.512110726644
+"SF Bay Area","USSG","mean","daily","Walk",8.26,18.06,118.64406779661
+"SF Bay Area","USSG","mean","daily","Bike",0.84,18.06,2050
+"SF Bay Area","USSG","mean","daily","Total",9.1,36.11,296.813186813187
+"San Joaquin Valley","USSG","mean","daily","Walk",3.97,23.56,493.450881612091
+"San Joaquin Valley","USSG","mean","daily","Bike",0.26,23.56,8961.53846153846
+"San Joaquin Valley","USSG","mean","daily","Total",4.23,47.13,1014.18439716312
+"Sacramento Area","USSG","mean","daily","Walk",4.63,19.79,327.429805615551
+"Sacramento Area","USSG","mean","daily","Bike",0.83,19.79,2284.33734939759
+"Sacramento Area","USSG","mean","daily","Total",5.46,39.58,624.908424908425
+"Southern California","USSG","mean","daily","Walk",4.66,19.86,326.18025751073
+"Southern California","USSG","mean","daily","Bike",0.4,19.86,4865
+"Southern California","USSG","mean","daily","Total",5.06,39.71,684.782608695652
+"San Diego County","USSG","mean","daily","Walk",4.21,17.89,324.940617577197
+"San Diego County","USSG","mean","daily","Bike",0.57,17.89,3038.59649122807
+"San Diego County","USSG","mean","daily","Total",4.79,35.77,646.764091858038
+"California","USSG","median","daily","Walk",2.5,10.71,328.4
+"California","USSG","median","daily","Bike",0.24,10.71,4362.5
+"California","USSG","median","daily","Total",2.74,21.43,682.116788321168
+"SF Bay Area","USSG","median","daily","Walk",4.28,10.71,150.233644859813
+"SF Bay Area","USSG","median","daily","Bike",0.44,10.71,2334.09090909091
+"SF Bay Area","USSG","median","daily","Total",4.72,21.43,354.025423728814
+"San Joaquin Valley","USSG","median","daily","Walk",1.52,10.71,604.605263157895
+"San Joaquin Valley","USSG","median","daily","Bike",0.1,10.71,10610
+"San Joaquin Valley","USSG","median","daily","Total",1.61,21.43,1231.05590062112
+"Sacramento Area","USSG","median","daily","Walk",2.14,10.71,400.467289719626
+"Sacramento Area","USSG","median","daily","Bike",0.38,10.71,2718.42105263158
+"Sacramento Area","USSG","median","daily","Total",2.52,21.43,750.396825396825
+"Southern California","USSG","median","daily","Walk",2.14,10.71,400.467289719626
+"Southern California","USSG","median","daily","Bike",0.18,10.71,5850
+"Southern California","USSG","median","daily","Total",2.32,21.43,823.706896551724
+"San Diego County","USSG","median","daily","Walk",2.16,10.71,395.833333333333
+"San Diego County","USSG","median","daily","Bike",0.29,10.71,3593.10344827586
+"San Diego County","USSG","median","daily","Total",2.46,21.43,771.138211382114
+"California","ShortTrips","mean","weekly","Walk",36.8722618,62.959,70.7489503668039
+"Sacramento Area","ShortTrips","mean","weekly","Walk",32.4,57.19925,76.5408950617284
+"San Diego County","ShortTrips","mean","weekly","Walk",29.5,47.7752307692308,61.9499348109517
+"San Joaquin Valley","ShortTrips","mean","weekly","Walk",27.8,53.3648846153846,91.9600166021029
+"SF Bay Area","ShortTrips","mean","weekly","Walk",57.7967337,79.6175,37.7543243416885
+"Southern California","ShortTrips","mean","weekly","Walk",32.6,63.0265961538461,93.3331170363379
+"California","ShortTrips","mean","weekly","Bike",3.6107393,85.4764615384615,2267.28421623964
+"Sacramento Area","ShortTrips","mean","weekly","Bike",5.8,109.858379807692,1794.10999668435
+"San Diego County","ShortTrips","mean","weekly","Bike",4,64.457375,1511.434375
+"San Joaquin Valley","ShortTrips","mean","weekly","Bike",1.8,67.7449278846154,3663.60710470085
+"SF Bay Area","ShortTrips","mean","weekly","Bike",5.8972102,91.4545096153846,1450.80973059744
+"Southern California","ShortTrips","mean","weekly","Bike",2.8,102.083990384615,3545.85679945055
+"California","ShortTrips","mean","weekly","Total",40.4830011,148.435461538462,266.66120965637
+"Sacramento Area","ShortTrips","mean","weekly","Total",38.2,167.057629807692,337.323638240032
+"San Diego County","ShortTrips","mean","weekly","Total",33.5,112.232605769231,235.022703788749
+"San Joaquin Valley","ShortTrips","mean","weekly","Total",29.6,121.1098125,309.154771959459
+"SF Bay Area","ShortTrips","mean","weekly","Total",63.6939439,171.072009615385,168.584419711816
+"Southern California","ShortTrips","mean","weekly","Total",35.4,165.110586538462,366.414086266841
+"California","ShortTrips","median","weekly","Walk",17.4931280349376,32.0763864047135,83.3656413001154
+"Sacramento Area","ShortTrips","median","weekly","Walk",14.9568519857661,28.7147139434081,91.9836739090208
+"San Diego County","ShortTrips","median","weekly","Walk",15.1453251811537,25.8999735013324,71.0096890726477
+"San Joaquin Valley","ShortTrips","median","weekly","Walk",10.6089511196833,21.4273233794567,101.974004194454
+"SF Bay Area","ShortTrips","median","weekly","Walk",29.9793141245031,44.5210932373215,48.506043375198
+"Southern California","ShortTrips","median","weekly","Walk",14.9701219335151,31.4818226256841,110.297703422192
+"California","ShortTrips","median","weekly","Bike",1.71302550459979,43.5485952574743,2442.20355391897
+"Sacramento Area","ShortTrips","median","weekly","Bike",2.67746115794579,55.1502327471806,1959.79581005363
+"San Diego County","ShortTrips","median","weekly","Bike",2.05360341439372,34.9437203669278,1601.580749331
+"San Joaquin Valley","ShortTrips","median","weekly","Bike",0.686910504152157,27.2012670422443,3859.94338095301
+"SF Bay Area","ShortTrips","median","weekly","Bike",3.05889806786822,51.1401984433077,1571.85036273366
+"Southern California","ShortTrips","median","weekly","Bike",1.28577734398289,50.9910144975262,3865.77329163181
+"California","ShortTrips","median","weekly","Total",19.2061535395374,75.6249816621879,293.753915933807
+"Sacramento Area","ShortTrips","median","weekly","Total",17.6343131437119,83.8649466905887,375.578186726788
+"San Diego County","ShortTrips","median","weekly","Total",17.1989285955474,60.8436938682601,253.764442536332
+"San Joaquin Valley","ShortTrips","median","weekly","Total",11.2958616238355,48.628590421701,330.499168997339
+"SF Bay Area","ShortTrips","median","weekly","Total",33.0382121923713,95.6612916806291,189.547422008258
+"Southern California","ShortTrips","median","weekly","Total",16.255899277498,82.4728371232103,407.340970286229
+"California","ShortTrips","mean","daily","Walk",5.26746597142857,8.99414285714286,70.7489503668039
+"Sacramento Area","ShortTrips","mean","daily","Walk",4.62857142857143,8.17132142857143,76.5408950617284
+"San Diego County","ShortTrips","mean","daily","Walk",4.21428571428571,6.82503296703297,61.9499348109517
+"San Joaquin Valley","ShortTrips","mean","daily","Walk",3.97142857142857,7.62355494505494,91.9600166021029
+"SF Bay Area","ShortTrips","mean","daily","Walk",8.25667624285714,11.3739285714286,37.7543243416885
+"Southern California","ShortTrips","mean","daily","Walk",4.65714285714286,9.00379945054945,93.3331170363378
+"California","ShortTrips","mean","daily","Bike",0.5158199,12.2109230769231,2267.28421623964
+"Sacramento Area","ShortTrips","mean","daily","Bike",0.828571428571429,15.6940542582418,1794.10999668435
+"San Diego County","ShortTrips","mean","daily","Bike",0.571428571428571,9.20819642857143,1511.434375
+"San Joaquin Valley","ShortTrips","mean","daily","Bike",0.257142857142857,9.67784684065934,3663.60710470085
+"SF Bay Area","ShortTrips","mean","daily","Bike",0.8424586,13.0649299450549,1450.80973059744
+"Southern California","ShortTrips","mean","daily","Bike",0.4,14.5834271978022,3545.85679945055
+"California","ShortTrips","mean","daily","Total",5.78328587142857,21.2050659340659,266.66120965637
+"Sacramento Area","ShortTrips","mean","daily","Total",5.45714285714286,23.8653756868132,337.323638240032
+"San Diego County","ShortTrips","mean","daily","Total",4.78571428571429,16.0332293956044,235.022703788749
+"San Joaquin Valley","ShortTrips","mean","daily","Total",4.22857142857143,17.3014017857143,309.154771959459
+"SF Bay Area","ShortTrips","mean","daily","Total",9.09913484285714,24.4388585164835,168.584419711816
+"Southern California","ShortTrips","mean","daily","Total",5.05714285714286,23.5872266483516,366.414086266841
+"California","ShortTrips","median","daily","Walk",2.49901829070537,4.58234091495908,83.3656413001154
+"Sacramento Area","ShortTrips","median","daily","Walk",2.13669314082373,4.10210199191545,91.9836739090208
+"San Diego County","ShortTrips","median","daily","Walk",2.16361788302196,3.69999621447605,71.0096890726477
+"San Joaquin Valley","ShortTrips","median","daily","Walk",1.51556444566904,3.06104619706525,101.974004194454
+"SF Bay Area","ShortTrips","median","daily","Walk",4.2827591606433,6.36015617676021,48.5060433751979
+"Southern California","ShortTrips","median","daily","Walk",2.13858884764501,4.49740323224059,110.297703422192
+"California","ShortTrips","median","daily","Bike",0.244717929228542,6.22122789392491,2442.20355391897
+"Sacramento Area","ShortTrips","median","daily","Bike",0.382494451135112,7.87860467816865,1959.79581005363
+"San Diego County","ShortTrips","median","daily","Bike",0.29337191634196,4.99196005241825,1601.580749331
+"San Joaquin Valley","ShortTrips","median","daily","Bike",0.0981300720217368,3.88589529174918,3859.94338095301
+"SF Bay Area","ShortTrips","median","daily","Bike",0.436985438266888,7.30574263475824,1571.85036273366
+"Southern California","ShortTrips","median","daily","Bike",0.183682477711841,7.28443064250375,3865.77329163181
+"California","ShortTrips","median","daily","Total",2.74373621993391,10.803568808884,293.753915933807
+"Sacramento Area","ShortTrips","median","daily","Total",2.51918759195884,11.9807066700841,375.578186726788
+"San Diego County","ShortTrips","median","daily","Total",2.45698979936392,8.6919562668943,253.764442536332
+"San Joaquin Valley","ShortTrips","median","daily","Total",1.61369451769078,6.94694148881443,330.499168997339
+"SF Bay Area","ShortTrips","median","daily","Total",4.71974459891019,13.6658988115184,189.547422008258
+"Southern California","ShortTrips","median","daily","Total",2.32227132535685,11.7818338747443,407.340970286229

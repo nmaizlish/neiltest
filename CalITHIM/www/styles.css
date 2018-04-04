@@ -1,0 +1,47 @@
+hr {
+  line-height: 10px;
+  color: blue;
+}
+
+h1 { 
+
+ font-family: Arial, Verdana, sans-serif; 
+ font-weight: bold; 
+ font-style: ;
+ color: black;
+} 
+
+
+body { 
+ background-color: white; 
+
+}
+
+
+.tooltip-inner {
+  max-width: 200px;
+  padding: 3px 8px;
+  color: #666666;
+  text-align: center;
+  background-color: #f2f2f2;
+  border-radius: 4px;
+}
+
+
+.checkbox { 
+        line-height: 30px;
+        margin-bottom: 40px; 
+ }
+      
+input[type='checkbox']{ 
+        width: 30px; 
+        height: 30px; 
+        line-height: 30px; 
+ }
+
+span { 
+        margin-left: 15px;  
+        line-height: 30px; 
+}
+
+
