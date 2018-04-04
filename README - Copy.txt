@@ -1,2 +1,0 @@
-# neiltest
-Test of GitHub
