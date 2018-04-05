@@ -1,0 +1,73 @@
+Region,ScenarioName,Centraltend,Time,Mode,Baseline,Scenario
+California,USSG,mean,weekly,Walk,36.87,135.25
+California,USSG,mean,weekly,Bike,3.61,135.25
+California,USSG,mean,weekly,Total,40.48,270.49
+SF Bay Area,USSG,mean,weekly,Walk,57.80,126.39
+SF Bay Area,USSG,mean,weekly,Bike,5.90,126.39
+SF Bay Area,USSG,mean,weekly,Total,63.69,252.79
+San Joaquin Valley,USSG,mean,weekly,Walk,27.80,164.95
+San Joaquin Valley,USSG,mean,weekly,Bike,1.80,164.95
+San Joaquin Valley,USSG,mean,weekly,Total,29.60,329.89
+Sacramento Area,USSG,mean,weekly,Walk,32.40,138.54
+Sacramento Area,USSG,mean,weekly,Bike,5.80,138.54
+Sacramento Area,USSG,mean,weekly,Total,38.20,277.07
+Southern California,USSG,mean,weekly,Walk,32.60,138.99
+Southern California,USSG,mean,weekly,Bike,2.80,138.99
+Southern California,USSG,mean,weekly,Total,35.40,277.98
+San Diego County,USSG,mean,weekly,Walk,29.50,125.21
+San Diego County,USSG,mean,weekly,Bike,4.00,125.21
+San Diego County,USSG,mean,weekly,Total,33.50,250.42
+California,USSG,median,weekly,Walk,17.49,75.00
+California,USSG,median,weekly,Bike,1.71,75.00
+California,USSG,median,weekly,Total,19.21,150.00
+SF Bay Area,USSG,median,weekly,Walk,29.98,75.00
+SF Bay Area,USSG,median,weekly,Bike,3.06,75.00
+SF Bay Area,USSG,median,weekly,Total,33.04,150.00
+San Joaquin Valley,USSG,median,weekly,Walk,10.61,75.00
+San Joaquin Valley,USSG,median,weekly,Bike,0.69,75.00
+San Joaquin Valley,USSG,median,weekly,Total,11.30,150.00
+Sacramento Area,USSG,median,weekly,Walk,14.96,75.00
+Sacramento Area,USSG,median,weekly,Bike,2.68,75.00
+Sacramento Area,USSG,median,weekly,Total,17.63,150.00
+Southern California,USSG,median,weekly,Walk,14.97,75.00
+Southern California,USSG,median,weekly,Bike,1.29,75.00
+Southern California,USSG,median,weekly,Total,16.26,150.00
+San Diego County,USSG,median,weekly,Walk,15.15,75.00
+San Diego County,USSG,median,weekly,Bike,2.05,75.00
+San Diego County,USSG,median,weekly,Total,17.20,150.00
+California,USSG,mean,daily,Walk,5.27,19.32
+California,USSG,mean,daily,Bike,0.52,19.32
+California,USSG,mean,daily,Total,5.78,38.64
+SF Bay Area,USSG,mean,daily,Walk,8.26,18.06
+SF Bay Area,USSG,mean,daily,Bike,0.84,18.06
+SF Bay Area,USSG,mean,daily,Total,9.10,36.11
+San Joaquin Valley,USSG,mean,daily,Walk,3.97,23.56
+San Joaquin Valley,USSG,mean,daily,Bike,0.26,23.56
+San Joaquin Valley,USSG,mean,daily,Total,4.23,47.13
+Sacramento Area,USSG,mean,daily,Walk,4.63,19.79
+Sacramento Area,USSG,mean,daily,Bike,0.83,19.79
+Sacramento Area,USSG,mean,daily,Total,5.46,39.58
+Southern California,USSG,mean,daily,Walk,4.66,19.86
+Southern California,USSG,mean,daily,Bike,0.40,19.86
+Southern California,USSG,mean,daily,Total,5.06,39.71
+San Diego County,USSG,mean,daily,Walk,4.21,17.89
+San Diego County,USSG,mean,daily,Bike,0.57,17.89
+San Diego County,USSG,mean,daily,Total,4.79,35.77
+California,USSG,median,daily,Walk,2.50,10.71
+California,USSG,median,daily,Bike,0.24,10.71
+California,USSG,median,daily,Total,2.74,21.43
+SF Bay Area,USSG,median,daily,Walk,4.28,10.71
+SF Bay Area,USSG,median,daily,Bike,0.44,10.71
+SF Bay Area,USSG,median,daily,Total,4.72,21.43
+San Joaquin Valley,USSG,median,daily,Walk,1.52,10.71
+San Joaquin Valley,USSG,median,daily,Bike,0.10,10.71
+San Joaquin Valley,USSG,median,daily,Total,1.61,21.43
+Sacramento Area,USSG,median,daily,Walk,2.14,10.71
+Sacramento Area,USSG,median,daily,Bike,0.38,10.71
+Sacramento Area,USSG,median,daily,Total,2.52,21.43
+Southern California,USSG,median,daily,Walk,2.14,10.71
+Southern California,USSG,median,daily,Bike,0.18,10.71
+Southern California,USSG,median,daily,Total,2.32,21.43
+San Diego County,USSG,median,daily,Walk,2.16,10.71
+San Diego County,USSG,median,daily,Bike,0.29,10.71
+San Diego County,USSG,median,daily,Total,2.46,21.43

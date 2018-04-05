@@ -1,0 +1,49 @@
+Region,Mode,Baseline
+California,Walk,96.2
+California,Bike,37.5
+California,CarDriver,6880.2
+California,CarPassenger,3503.4
+California,Bus,297.5
+California,Rail,146.6
+California,Motorcycle,34
+California,Truck,661.7
+SF Bay Area,Walk,150.7
+SF Bay Area,Bike,61.5
+SF Bay Area,CarDriver,5683.3
+SF Bay Area,CarPassenger,1824.1
+SF Bay Area,Bus,293.6
+SF Bay Area,Rail,354.5
+SF Bay Area,Motorcycle,47.9
+SF Bay Area,Truck,677.2
+San Joaquin Valley,Walk,72.5
+San Joaquin Valley,Bike,18.4
+San Joaquin Valley,CarDriver,6207
+San Joaquin Valley,CarPassenger,3257.1
+San Joaquin Valley,Bus,397.9
+San Joaquin Valley,Rail,8
+San Joaquin Valley,Motorcycle,22.7
+San Joaquin Valley,Truck,1108.3
+Sacramento Area,Walk,84.5
+Sacramento Area,Bike,60.7
+Sacramento Area,CarDriver,5653.2
+Sacramento Area,CarPassenger,4226.5
+Sacramento Area,Bus,160.3
+Sacramento Area,Rail,32.5
+Sacramento Area,Motorcycle,46.7
+Sacramento Area,Truck,622.1
+Southern California,Walk,84.9
+Southern California,Bike,29
+Southern California,CarDriver,7967.2
+Southern California,CarPassenger,4181.9
+Southern California,Bus,303.7
+Southern California,Rail,120.2
+Southern California,Motorcycle,27
+Southern California,Truck,464.2
+San Diego County,Walk,76.8
+San Diego County,Bike,42.1
+San Diego County,CarDriver,4840.6
+San Diego County,CarPassenger,3062
+San Diego County,Bus,234.8
+San Diego County,Rail,94.6
+San Diego County,Motorcycle,49.2
+San Diego County,Truck,1272.5

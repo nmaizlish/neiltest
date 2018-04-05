@@ -1,0 +1,19 @@
+Region,distance_cat,distance,proportion
+California,lt_one,"9,903,645",0.013
+California,one2five,"125,844,073",0.164
+California,five_plus,"630,624,288",0.823
+SF Bay Area,lt_one,"2,289,851",0.015
+SF Bay Area,one2five,"36,935,382",0.237
+SF Bay Area,five_plus,"116,519,271",0.748
+San Joaquin Valley,lt_one,"1,165,945",0.014
+San Joaquin Valley,one2five,"12,340,442",0.145
+San Joaquin Valley,five_plus,"71,642,037",0.841
+Sacramento Area,lt_one,"484,477",0.013
+Sacramento Area,one2five,"8,319,099",0.219
+Sacramento Area,five_plus,"29,224,739",0.768
+San Diego County,lt_one,"740,751",0.012
+San Diego County,one2five,"9,787,706",0.159
+San Diego County,five_plus,"50,969,365",0.829
+Southern California,lt_one,"4,446,409",0.013
+Southern California,one2five,"58,143,426",0.17
+Southern California,five_plus,"279,771,121",0.817
